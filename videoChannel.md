@@ -18,6 +18,7 @@ Other
 
 * Oracle Learning Library - https://www.youtube.com/channel/UCpcndhe5IebWrJrdLRGRsvw
 * Morning at Lohika - https://www.youtube.com/channel/UCRGTTEhkjGTfpypmHFtT_Ww
+* LITS Школа - https://www.youtube.com/channel/UCZcfSV9vC-O9gXVWBoJoG1A
 * NewCircle Training - https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g
 * Training Farata - https://www.youtube.com/channel/UCeI_1qGrFeqsjMED58wO5rQ
 * Software University - https://www.youtube.com/channel/UCPlL0QmMNVtubUKO2SqU4zQ
