@@ -16,6 +16,7 @@ Python
 Other
 ===
 
+* 5000+ free tutorials and courses - https://www.parleys.com/
 * Oracle Learning Library - https://www.youtube.com/channel/UCpcndhe5IebWrJrdLRGRsvw
 * Morning at Lohika - https://www.youtube.com/channel/UCRGTTEhkjGTfpypmHFtT_Ww
 * LITS Школа - https://www.youtube.com/channel/UCZcfSV9vC-O9gXVWBoJoG1A
