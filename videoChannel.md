@@ -18,6 +18,7 @@ Other
 
 * 5000+ free tutorials and courses - https://www.parleys.com/
 * Oracle Learning Library - https://www.youtube.com/channel/UCpcndhe5IebWrJrdLRGRsvw
+* Конференции и мероприятия Яндекса - https://events.yandex.ru/catalog/
 * Morning at Lohika - https://www.youtube.com/channel/UCRGTTEhkjGTfpypmHFtT_Ww
 * LITS Школа - https://www.youtube.com/channel/UCZcfSV9vC-O9gXVWBoJoG1A
 * NewCircle Training - https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g
