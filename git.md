@@ -8,3 +8,5 @@ Git and GitHub
 * Git Immersion - http://gitimmersion.com/lab_01.html
 * Learn Git Branching - http://pcottle.github.io/learnGitBranching/
 * Git Magic ( + ukr version)- http://www-cs-students.stanford.edu/~blynn/gitmagic/ 
+
+* first aid git - http://firstaidgit.io/
