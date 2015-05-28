@@ -13,6 +13,16 @@ Python
 
 * EuroPython Conference - https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q
 
+Android
+===
+
+* Start Android - https://www.youtube.com/channel/UCzE7HcbvyEiS5ea1rVRbPLQ
+
+Web
+===
+
+* loftblog. Видеоуроки по веб-разработке - https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA
+
 Other
 ===
 
