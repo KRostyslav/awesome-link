@@ -22,6 +22,7 @@ Web
 ===
 
 * loftblog. Видеоуроки по веб-разработке - https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA
+* Magisters | Обучение современным профессиям - https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA
 
 Other
 ===
