@@ -1,6 +1,7 @@
 Academy courses
 ===
 
+* Never Stop Learning - https://www.class-central.com (catalog)
 * Coursera - https://www.coursera.org/
 * Udacity - https://www.udacity.com/
 * AcademicEarth- http://academicearth.org/
