@@ -6,6 +6,7 @@ Java
 * JUG Lviv - https://www.youtube.com/channel/UCW8XWG7scEX50ZuHoMSE9rQ
 * Java Day - https://www.youtube.com/channel/UCJryiYxGliHc8-bpknoLLcw
 * JDayLviv - https://www.youtube.com/channel/UCGIICycJbbaRaLs8VJGJTXg
+* JDD 2014 - https://www.youtube.com/playlist?list=PLnKL6-WWWE_XNAAYDen1LG0H1whNGHobd
 * Онлайн уроки по Java - https://www.youtube.com/channel/UCdXqgQdGW5go6nkkBbUVSMA
 
 Python
