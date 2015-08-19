@@ -38,3 +38,4 @@ Other
 * Software University - https://www.youtube.com/channel/UCPlL0QmMNVtubUKO2SqU4zQ
 * Grow your skills with online video courses - https://curious.com/
 * WATCH PEOPLE CODE LIVE - https://www.livecoding.tv/
+* CyberBionic Systematics - https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvHUIw
