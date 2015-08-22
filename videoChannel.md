@@ -8,6 +8,7 @@ Java
 * JDayLviv - https://www.youtube.com/channel/UCGIICycJbbaRaLs8VJGJTXg
 * JDD 2014 - https://www.youtube.com/playlist?list=PLnKL6-WWWE_XNAAYDen1LG0H1whNGHobd
 * Онлайн уроки по Java - https://www.youtube.com/channel/UCdXqgQdGW5go6nkkBbUVSMA
+* Образование онлайн - https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ
 
 Python
 ===
