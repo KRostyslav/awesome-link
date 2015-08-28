@@ -5,3 +5,4 @@ Database
 * Интерактивный учебник по SQL - http://www.sql-tutorial.ru/
 * SQL Tutorial - http://sqlzoo.net/wiki/SQL_Tutorial
 * SQLZOO - http://sqlzoo.net/wiki/SQL_Tutorial
+* SQL Joins Visualizer - http://sql-joins.leopard.in.ua/
