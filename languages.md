@@ -25,3 +25,8 @@ Web (HTML&CSS, JavaScript, JQuery, PHP, Python, Ruby ...)
 * Code Avengers - http://www.codeavengers.com/
 * MarkSheet: a free guide to learn HTML and CSS - http://marksheet.io/
 * Learn Web Design, Web Development, and More - https://teamtreehouse.com/
+
+
+Java
+===
+* JVM Memory settings - http://jvmmemory.com/
