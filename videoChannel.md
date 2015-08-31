@@ -10,6 +10,7 @@ Java
 * Онлайн уроки по Java - https://www.youtube.com/channel/UCdXqgQdGW5go6nkkBbUVSMA
 * Образование онлайн - https://www.youtube.com/channel/UCLAkvv3lfwveX2aqo2oO9GQ
 
+
 Python
 ===
 
@@ -40,3 +41,4 @@ Other
 * Grow your skills with online video courses - https://curious.com/
 * WATCH PEOPLE CODE LIVE - https://www.livecoding.tv/
 * CyberBionic Systematics - https://www.youtube.com/channel/UCokGORp98u8yD5MJvqvHUIw
+* TechDay - https://www.techdays.ru/
