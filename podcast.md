@@ -4,6 +4,7 @@ Podcasts
 - Подкаст «Разбор Полетов» - http://razbor-poletov.com/
 - Радио-Т - http://www.radio-t.com/
 - RadioJS - http://radiojs.ru/
+- Подкаст Тестировщиков - http://radio-qa.com/
 - DevZen Podcast - http://devzen.ru/
 - GoLangShow - http://golangshow.com/
 - Откровенно про IT-карьеризм - http://it-career.podfm.ru/
