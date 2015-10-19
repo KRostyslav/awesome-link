@@ -7,6 +7,7 @@ Podcasts
 - Подкаст Тестировщиков - http://radio-qa.com/
 - DevZen Podcast - http://devzen.ru/
 - GoLangShow - http://golangshow.com/
+- Подкаст о технологиях, процессах, инфраструктуре и людях в IT-компаниях - http://ctocast.com/
 - Откровенно про IT-карьеризм - http://it-career.podfm.ru/
 - Америчка - http://americhka.us/
 - UWP - Eженедельный подкаст от Umputun - http://podcast.umputun.com/
