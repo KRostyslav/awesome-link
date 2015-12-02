@@ -14,3 +14,7 @@ Podcasts
 - UWP - Eженедельный подкаст от Umputun - http://podcast.umputun.com/
 - Радио Бермудский Треугольник - http://btradiopodcast.com/
 - Tasty Books's podcast - http://mytastybooks.libsyn.com/podcast
+
+
+Eng podcasts
+- Software Engineering Radio - http://www.se-radio.net/
