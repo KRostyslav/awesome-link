@@ -25,6 +25,10 @@ Angular
 * AngularClass - http://courses.angularclass.com/
 * Write Code. Learn Angular. - http://www.learn-angular.org/
 
+Style Guide
+===
+* Google Style Guides - https://github.com/google/styleguide
+
 Code Conventions for the Java
 ===
 * Oracle  - http://www.oracle.com/technetwork/java/codeconvtoc-136057.html
