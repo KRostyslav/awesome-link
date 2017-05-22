@@ -7,6 +7,7 @@ Academy courses
 * Udemy - https://www.udemy.com/
 * Khan Academy- https://www.khanacademy.org/
 * EdX - https://www.edx.org/
+* Google Codelabs - https://codelabs.developers.google.com/
 * Prometheus (UA)- http://prometheus.org.ua/
 * Skills Academy (UA) - http://skillsacademy.com.ua/courses
 * Stepic (RU) - https://stepic.org/
