@@ -73,6 +73,7 @@ Java
 JavaScript
 ===
 * Современный учебник JavaScript -https://learn.javascript.ru/
+* JavaScript The Right Way - http://jstherightway.org/
 
 MongoDB
 ===
