@@ -72,6 +72,7 @@ Java
 
 JavaScript
 ===
+* Front-End Developer Handbook 2017 - https://www.frontendhandbook.com/
 * Современный учебник JavaScript -https://learn.javascript.ru/
 * JavaScript The Right Way - http://jstherightway.org/
 
